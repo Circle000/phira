@@ -90,17 +90,17 @@ review-edit-tags-done = Tags updated
 
 mods = Mods
 mods-autoplay = Autoplay
-mods-autoplay-sub = Enabling this would disable record uploading
-mods-flip-x = Flip X
-mods-flip-x-sub = Flip on the X-axis
-mods-fade-out = Fade out
-mods-fade-out-sub = Notes disappear when they approach the line
+mods-autoplay-sub = Autoplay.  Uploading scores is disabled when this is on.
+mods-flip-x = Mirror
+mods-flip-x-sub = Mirror mode.
+mods-fade-out = Fade Out
+mods-fade-out-sub = Notes begin to fade out when they approach the judgement line.
 
-rate-failed = Rate failed
-rate-done = Rated successfully
+rate-failed = Failed to rate!
+rate-done = Sucessfully rated!
 
 need-update = Update needed
-need-update-info-only-content = The info of beatmap has updated. Do you want to sync the update?
-need-update-content = This beatmap has updated. You must sync your local version before uploading record. Do you want to do it now?
+need-update-info-only-content = The info of this chart has been modified.  Update now?
+need-update-content = This chart has been modified.  Submitting scores requires you to update this chart.  Update now?
 
 request-failed = Request failed
