@@ -1,7 +1,7 @@
 
 play = Play
 event = Event
-respack = Respack
+respack = Resource Pack
 
 not-opened = Not available yet
 not-logged-in = Not logged in
